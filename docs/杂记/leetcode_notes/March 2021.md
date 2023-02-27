@@ -1,4 +1,4 @@
-# My Leetcode Notes  __  March 2021
+# March 2021
 
 ## 02 [无重复字符的最长子窜](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 

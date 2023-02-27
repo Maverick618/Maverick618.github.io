@@ -1,4 +1,4 @@
-#  My Leetcode Notes  __  April 2021
+# April 2021
 
 ## 01 [笨阶乘](https://leetcode-cn.com/problems/clumsy-factorial/)
 
