@@ -11,8 +11,9 @@ theme:
 
   features:
     - navigation.tabs
-    - navigation.path
+    # - navigation.path          # Sponsors only 
     - navigation.indexes
+    - toc.integrate
 
   icon:
     admonition:
@@ -29,8 +30,8 @@ theme:
       example: octicons/beaker-16
       quote: octicons/quote-16
 
-nav:
-  - 记我随想: 
-    - index.md
-  - 为我所学:
-    - 为我所学/index.md
+# nav:
+#   - 记我随想: 
+#     - index.md
+#   - 为我所学:
+#     - 为我所学/index.md
