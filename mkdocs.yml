@@ -1,6 +1,8 @@
 site_name: MaverickPig的大杂烩
 
 markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
   - admonition
   - pymdownx.details
   - pymdownx.superfences
@@ -11,6 +13,7 @@ theme:
 
   features:
     - navigation.tabs
+    - navigation.tracking
     # - navigation.path          # Sponsors only 
     - navigation.indexes
     - toc.integrate
@@ -30,8 +33,16 @@ theme:
       example: octicons/beaker-16
       quote: octicons/quote-16
 
-# nav:
-#   - 记我随想: 
-#     - index.md
-#   - 为我所学:
-#     - 为我所学/index.md
+nav:
+  - 记我随想: 
+      - index.md
+      - LeetCode:
+          - 记我随想\leetcode_notes\index.md
+          - 记我随想\leetcode_notes\April_2021.md
+          - 记我随想\leetcode_notes\March 2021.md
+          - 记我随想\leetcode_notes\September_2021.md
+  - 为我所学:
+      - 为我所学/index.md
+      - 数据结构与算法:
+          - 为我所学\数据结构与算法\index.md
+          - 为我所学\数据结构与算法\动态规划.md
