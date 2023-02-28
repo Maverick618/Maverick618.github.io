@@ -1,11 +1,5 @@
 site_name: MaverickPig的大杂烩
 
-nav:
-  - 记我所想: 
-      - index.md
-      - 记我随想/
-  - 
-
 markdown_extensions:
   - admonition
   - pymdownx.details
@@ -14,6 +8,12 @@ markdown_extensions:
 theme:
   name: material
   language: 'zh'
+
+  features:
+    - navigation.tabs
+    - navigation.path
+    - navigation.indexes
+
   icon:
     admonition:
       note: octicons/tag-16
@@ -28,3 +28,9 @@ theme:
       bug: octicons/bug-16
       example: octicons/beaker-16
       quote: octicons/quote-16
+
+nav:
+  - 记我随想: 
+    - index.md
+  - 为我所学:
+    - 为我所学/index.md
