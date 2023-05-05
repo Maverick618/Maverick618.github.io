@@ -34,15 +34,25 @@ theme:
       quote: octicons/quote-16
 
 nav:
-  - 记我随想: 
+  - 如我所见:
       - index.md
-      - LeetCode:
-          - 记我随想\leetcode_notes\index.md
-          - 记我随想\leetcode_notes\April_2021.md
-          - 记我随想\leetcode_notes\March 2021.md
-          - 记我随想\leetcode_notes\September_2021.md
+
+  - 书我随想: 
+      - 书我随想\index.md
+
   - 为我所学:
       - 为我所学/index.md
+      - PyTorch:
+          - 为我所学\PyTorch\index.md
+          - 为我所学\PyTorch\数据集与数据处理.md
+          - 为我所学\PyTorch\神经网络搭建.md
+      - 参数量化:
+          - 为我所学\参数量化\VecQ.md
       - 数据结构与算法:
           - 为我所学\数据结构与算法\index.md
           - 为我所学\数据结构与算法\动态规划.md
+      - LeetCode:
+          - 为我所学\leetcode_notes\index.md
+          - 为我所学\leetcode_notes\April_2021.md
+          - 为我所学\leetcode_notes\March 2021.md
+          - 为我所学\leetcode_notes\September_2021.md
