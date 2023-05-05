@@ -44,15 +44,15 @@ nav:
       - 为我所学/index.md
       - PyTorch:
           - 为我所学\PyTorch\index.md
-          - 为我所学\PyTorch\数据集与数据处理.md
-          - 为我所学\PyTorch\神经网络搭建.md
+          - 数据集与数据处理: 为我所学\PyTorch\数据集与数据处理.md
+          - 神经网络搭建: 为我所学\PyTorch\神经网络搭建.md
       - 参数量化:
-          - 为我所学\参数量化\VecQ.md
+          -VecQ: 为我所学\参数量化\VecQ.md
       - 数据结构与算法:
           - 为我所学\数据结构与算法\index.md
-          - 为我所学\数据结构与算法\动态规划.md
+          - 动态规划: 为我所学\数据结构与算法\动态规划.md
       - LeetCode:
           - 为我所学\leetcode_notes\index.md
-          - 为我所学\leetcode_notes\April_2021.md
-          - 为我所学\leetcode_notes\March 2021.md
-          - 为我所学\leetcode_notes\September_2021.md
+          - April_2021: 为我所学\leetcode_notes\April_2021.md
+          - March_2021: 为我所学\leetcode_notes\March 2021.md
+          - September_2021: 为我所学\leetcode_notes\September_2021.md
