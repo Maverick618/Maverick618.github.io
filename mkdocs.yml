@@ -37,6 +37,7 @@ theme:
 nav:
   - 如我所见:
       - index.md
+      - mkdocs: 如我所见/mkdocs_pro&slove.md
 
   - 书我随想: 
       - 书我随想/index.md
