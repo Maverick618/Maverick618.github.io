@@ -19,14 +19,8 @@ Cheng Gong, Yao Chen, Ye Lu, Tao Li, Cong Hao, Deming Chen, Fellow, IEEE
 其中，Steering代表最小化方向损失，Driving代表最小化模损失。
 
 关于Steering操作，有：
-
-$$ Steer(w_{f}, \lambda, k) = Clip \lbrace (\lfloor \frac{w_{f}}{\lambda} - 0.5 \rfloor), -2^{k-1}, 2^{k-1}-1\rbrace + 0.5 $$
-
-$$ w'_{q} = Sterr(w_{f}, \lambda, k) $$
-
-$$ \lambda^{*} = arg min_{\lambda}(J_o(w_{f}, w'_{q})) $$
-
+![fig.4](../../imgs/vecq/Vecq_04.png "懒得写公式了，直接上图")
 
 关于Driving操作，有:
-![fig.4](../../imgs/vecq/Vecq_04.png "懒得写公式了，直接上图")
+![fig.5](../../imgs/vecq/Vecq_05.png "懒得写公式了，直接上图")
 
