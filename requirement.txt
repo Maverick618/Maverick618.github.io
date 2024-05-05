@@ -3,5 +3,7 @@ mkdocs-git-revision-date-localized-plugin
 jieba
 rich
 mkdocs-statistics-plugin
-termynal
-neoteroi-mkdocs
+mkdocs-toc-plugin
+mkdocs-git-revision-date-plugin                                     
+mkdocs-material-extensions                
+mkdocs-rss-plugin                
