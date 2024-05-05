@@ -1,0 +1,7 @@
+:root{
+    --md-text-font: "Noto Serif SC"; 
+    --md-code-font: "JetBrains Mono", "LXGW WenKai Screen"; 
+    --md-primary-fg-color:        #39c5bb;
+    --md-primary-fg-color--light: #fffefb;
+    --md-primary-fg-color--dark:  #182a32;
+}

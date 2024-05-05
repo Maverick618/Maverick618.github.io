@@ -1,34 +1,136 @@
 site_name: MaverickPig的大杂烩
+site_url: https://maverick618.github.io/
 
+# MD扩展
 markdown_extensions:
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
+
+  # Todo: 暂时不懂  
+  
+  
+  - sane_lists
+  - pymdownx.magiclink
+
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  
   - pymdownx.arithmatex:
       generic: true
 
+  # 元信息
+  - meta 
+
+  # 通用前置
+  - pymdownx.superfences # 提示、警告栏 / 代码块 / 内容标签栏
+  - attr_list # 按钮 / 图片
+  - pymdownx.snippets # 术语 / 代码块
+
+  # 目录结构
+  - toc:
+      permalink: true
+      toc_depth: 4
+
+  # 术语提示与独立的术语表？ 还不太懂
+  - abbr
+
+  #  提示、警告栏
+  - admonition
+  - pymdownx.details
+  
+  # 代码块
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+
+  # 内容标签栏
+  - pymdownx.tabbed:
+      alternate_style: true   
+  
+  # 表格
+  - tables
+  
+  # 注脚
+  - footnotes
+  
+  # 格式化处理
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  
+  # 图表
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  
+  # The Markdown in HTML extension allows for writing Markdown inside of HTML
+  - md_in_html
+
+  # 列表
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true  
+
+  # 数学公式
+  - pymdownx.arithmatex:
+      generic: true
+
+
 # 允许数学公式
 extra_javascript:
-  - javascripts/mathjax.js
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+#   - javascripts/mathjax.js
+#   - https://polyfill.io/v3/polyfill.min.js?features=es6
+#   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+#   - js/extra.js
+  # Todo: Katex 还不懂
+  - https://gcore.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js
+  - https://cdn.tonycrane.cc/utils/katex.min.js
+  - js/katex.js
 
-
+# css
+extra_css:
+    - stylesheets/extras.css
+    - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
+# 主题
 theme:
   name: material
   language: 'zh'
 
+  #
+  custom_dir: overrides
+
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: cyan
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  font:
+      text: Noto Serif SC
+      code: JetBrains Mono
   features:
     - navigation.tabs
     - navigation.tracking
     - navigation.indexes
     - navigation.top
-    - toc.integrate
+    - navigation.instant
+    # - toc.integrate  # 目录表 嵌入
     # - navigation.path          # Sponsors only 
     
   icon:
+    # 更改mkdocs的logo  
+    logo: material/notebook-outline
+
     admonition:
       note: octicons/tag-16
       abstract: octicons/checklist-16
@@ -43,27 +145,55 @@ theme:
       example: octicons/beaker-16
       quote: octicons/quote-16
 
+plugins: 
+  # - meta # sponsors only
+  - toc
+  - rss
+  - search
+  - statistics
+  - git-revision-date-localized:  # 更新时间
+      enable_creation_date: true
+
+not_in_nav:
+    ToDo.md
+
 nav:
-  - 如我所见:
-      - index.md
-      - mkdocs: 如我所见/mkdocs_pro&slove.md
+    - 如我所见:
+        - index.md
 
-  - 书我随想: 
-      - 书我随想/index.md
-
-  - 为我所学:
-      - 为我所学/index.md
-      - PyTorch:
-          - 为我所学/PyTorch/index.md
-          - 数据集与数据处理: 为我所学/PyTorch/数据集与数据处理.md
-          - 神经网络搭建: 为我所学/PyTorch/神经网络搭建.md
-      - 参数量化:
-          - VecQ: 为我所学/参数量化/VecQ.md
-      - 数据结构与算法:
-          - 为我所学/数据结构与算法/index.md
-          - 动态规划: 为我所学/数据结构与算法/动态规划.md
-      - LeetCode:
-          - 为我所学/leetcode_notes/index.md
-          - April_2021: 为我所学/leetcode_notes/April_2021.md
-          - March_2021: 为我所学/leetcode_notes/March_2021.md
-          - September_2021: 为我所学/leetcode_notes/September_2021.md
+    - 计算机科学与技术:
+        - CS/index.md
+        - coq:
+            - 环境搭建: CS/coq/environment.md
+            - 入门: CS/coq/intros.md
+        - PyTorch:
+            - CS/PyTorch/index.md
+            - 数据集与数据处理: CS/PyTorch/数据集与数据处理.md
+            - 神经网络搭建: CS/PyTorch/神经网络搭建.md
+        - 参数量化:
+            - VecQ: CS/quantization/VecQ.md
+        - 数据结构与算法:
+            - CS/data_structure_and_algorithm/index.md
+            - 动态规划: CS/data_structure_and_algorithm/dynamic_programing.md
+        - LeetCode:
+            - CS/leetcode_notes/index.md
+            - April_2021: CS/leetcode_notes/April_2021.md
+            - March_2021: CS/leetcode_notes/March_2021.md
+            - September_2021: CS/leetcode_notes/September_2021.md
+        - 杂记:
+            - Latex: CS/杂记/Latex.md
+            - Markdown: CS/杂记/Markdown.md
+            - mkdocs: CS/杂记/mkdocs_pro&slove.md
+    - 论文:
+          - 程序逻辑与证明:
+                - Hoare逻辑: Paper_notes/program_logic_and_proof/hoare_logic.md
+                - Spoq: Paper_notes/program_logic_and_proof/Spoq.md
+                - CaReSL: Paper_notes/program_logic_and_proof/CaReSL.md
+    - 心之所向:
+        - Mind/index.md
+        - 多读书！:
+            - Mind/books_notes/index.md
+            - 革命时期的爱情: Mind/books_notes/革命时期的爱情.md
+            - 白银时代: Mind/books_notes/白银时代.md
+            
+   
