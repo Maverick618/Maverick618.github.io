@@ -1,6 +1,49 @@
 site_name: MaverickPig的大杂烩
 site_url: https://maverick618.github.io/
 
+nav:
+    - 如我所见:
+        - index.md
+
+    - 计算机科学与技术:
+        - CS/index.md
+        - coq:
+            - 环境搭建: CS/coq/environment.md
+            - 入门: CS/coq/intros.md
+        - PyTorch:
+            - CS/PyTorch/index.md
+            - 数据集与数据处理: CS/PyTorch/数据集与数据处理.md
+            - 神经网络搭建: CS/PyTorch/神经网络搭建.md
+        - 参数量化:
+            - VecQ: CS/quantization/VecQ.md
+        - 数据结构与算法:
+            - CS/data_structure_and_algorithm/index.md
+            - 动态规划: CS/data_structure_and_algorithm/dynamic_programing.md
+        - LeetCode:
+            - CS/leetcode_notes/index.md
+            - April_2021: CS/leetcode_notes/April_2021.md
+            - March_2021: CS/leetcode_notes/March_2021.md
+            - September_2021: CS/leetcode_notes/September_2021.md
+        - 杂记:
+            - Latex: CS/杂记/Latex.md
+            - Markdown: CS/杂记/Markdown.md
+            - mkdocs: CS/杂记/mkdocs_pro&slove.md
+        - LiteOS:
+            - 系统调用分析: CS/LiteOS/系统调用分析.md
+                
+    - 论文:
+          - 程序逻辑与证明:
+                - Hoare逻辑: Paper_notes/program_logic_and_proof/hoare_logic.md
+                - Spoq: Paper_notes/program_logic_and_proof/Spoq.md
+                - CaReSL: Paper_notes/program_logic_and_proof/CaReSL.md
+    - 心之所向:
+        - Mind/index.md
+        - 多读书！:
+            - Mind/books_notes/index.md
+            - 革命时期的爱情: Mind/books_notes/革命时期的爱情.md
+            - 白银时代: Mind/books_notes/白银时代.md
+            
+
 # MD扩展
 markdown_extensions:
 
@@ -156,44 +199,3 @@ plugins:
 
 not_in_nav:
     ToDo.md
-
-nav:
-    - 如我所见:
-        - index.md
-
-    - 计算机科学与技术:
-        - CS/index.md
-        - coq:
-            - 环境搭建: CS/coq/environment.md
-            - 入门: CS/coq/intros.md
-        - PyTorch:
-            - CS/PyTorch/index.md
-            - 数据集与数据处理: CS/PyTorch/数据集与数据处理.md
-            - 神经网络搭建: CS/PyTorch/神经网络搭建.md
-        - 参数量化:
-            - VecQ: CS/quantization/VecQ.md
-        - 数据结构与算法:
-            - CS/data_structure_and_algorithm/index.md
-            - 动态规划: CS/data_structure_and_algorithm/dynamic_programing.md
-        - LeetCode:
-            - CS/leetcode_notes/index.md
-            - April_2021: CS/leetcode_notes/April_2021.md
-            - March_2021: CS/leetcode_notes/March_2021.md
-            - September_2021: CS/leetcode_notes/September_2021.md
-        - 杂记:
-            - Latex: CS/杂记/Latex.md
-            - Markdown: CS/杂记/Markdown.md
-            - mkdocs: CS/杂记/mkdocs_pro&slove.md
-    - 论文:
-          - 程序逻辑与证明:
-                - Hoare逻辑: Paper_notes/program_logic_and_proof/hoare_logic.md
-                - Spoq: Paper_notes/program_logic_and_proof/Spoq.md
-                - CaReSL: Paper_notes/program_logic_and_proof/CaReSL.md
-    - 心之所向:
-        - Mind/index.md
-        - 多读书！:
-            - Mind/books_notes/index.md
-            - 革命时期的爱情: Mind/books_notes/革命时期的爱情.md
-            - 白银时代: Mind/books_notes/白银时代.md
-            
-   
