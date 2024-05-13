@@ -134,12 +134,13 @@ extra_javascript:
 extra_css:
     - stylesheets/extras.css
     - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
+
 # 主题
 theme:
   name: material
   language: 'zh'
 
-  #
+  # 评论
   custom_dir: overrides
 
   palette:
