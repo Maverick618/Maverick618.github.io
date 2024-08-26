@@ -2,137 +2,182 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://maverick618.github.io/</loc>
-         <lastmod>2024-05-16</lastmod>
+         <lastmod>2024-08-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://maverick618.github.io/CS/</loc>
-         <lastmod>2024-05-16</lastmod>
+         <loc>https://maverick618.github.io/%E4%BC%9A%E8%AE%AE/CC%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E9%AB%98%E7%AD%89%E7%BA%A7%E8%AE%A4%E8%AF%81%E5%8F%8A%E5%BD%A2%E5%BC%8F%E5%8C%96%E6%96%B9%E6%B3%95/</loc>
+         <lastmod>2024-08-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://maverick618.github.io/CS/LiteOS/%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8%E5%88%86%E6%9E%90/</loc>
-         <lastmod>2024-05-16</lastmod>
+         <loc>https://maverick618.github.io/%E5%BF%83%E4%B9%8B%E6%89%80%E5%90%91/</loc>
+         <lastmod>2024-08-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://maverick618.github.io/CS/PyTorch/</loc>
-         <lastmod>2024-05-16</lastmod>
+         <loc>https://maverick618.github.io/%E5%BF%83%E4%B9%8B%E6%89%80%E5%90%91/%E8%AF%BB%E4%B9%A6/</loc>
+         <lastmod>2024-08-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://maverick618.github.io/CS/PyTorch/%E6%95%B0%E6%8D%AE%E9%9B%86%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86/</loc>
-         <lastmod>2024-05-16</lastmod>
+         <loc>https://maverick618.github.io/%E5%BF%83%E4%B9%8B%E6%89%80%E5%90%91/%E8%AF%BB%E4%B9%A6/%E7%99%BD%E9%93%B6%E6%97%B6%E4%BB%A3/</loc>
+         <lastmod>2024-08-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://maverick618.github.io/CS/PyTorch/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E6%90%AD%E5%BB%BA/</loc>
-         <lastmod>2024-05-16</lastmod>
+         <loc>https://maverick618.github.io/%E5%BF%83%E4%B9%8B%E6%89%80%E5%90%91/%E8%AF%BB%E4%B9%A6/%E9%9D%A9%E5%91%BD%E6%97%B6%E6%9C%9F%E7%9A%84%E7%88%B1%E6%83%85/</loc>
+         <lastmod>2024-08-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://maverick618.github.io/CS/PyTorch/%E7%BD%91%E7%BB%9C%E8%AE%AD%E7%BB%83/</loc>
-         <lastmod>2024-05-16</lastmod>
+         <loc>https://maverick618.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/</loc>
+         <lastmod>2024-08-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://maverick618.github.io/CS/coq/environment/</loc>
-         <lastmod>2024-05-16</lastmod>
+         <loc>https://maverick618.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/LeetCode/</loc>
+         <lastmod>2024-08-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://maverick618.github.io/CS/coq/intros/</loc>
-         <lastmod>2024-05-16</lastmod>
+         <loc>https://maverick618.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/LeetCode/April_2021/</loc>
+         <lastmod>2024-08-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://maverick618.github.io/CS/data_structure_and_algorithm/</loc>
-         <lastmod>2024-05-16</lastmod>
+         <loc>https://maverick618.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/LeetCode/March_2021/</loc>
+         <lastmod>2024-08-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://maverick618.github.io/CS/data_structure_and_algorithm/dynamic_programing/</loc>
-         <lastmod>2024-05-16</lastmod>
+         <loc>https://maverick618.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/LeetCode/September_2021/</loc>
+         <lastmod>2024-08-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://maverick618.github.io/CS/leetcode_notes/</loc>
-         <lastmod>2024-05-16</lastmod>
+         <loc>https://maverick618.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E5%AE%9A%E7%90%86%E8%AF%81%E6%98%8E/Coq/environment/</loc>
+         <lastmod>2024-08-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://maverick618.github.io/CS/leetcode_notes/April_2021/</loc>
-         <lastmod>2024-05-16</lastmod>
+         <loc>https://maverick618.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E5%AE%9A%E7%90%86%E8%AF%81%E6%98%8E/Coq/intros/</loc>
+         <lastmod>2024-08-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://maverick618.github.io/CS/leetcode_notes/March_2021/</loc>
-         <lastmod>2024-05-16</lastmod>
+         <loc>https://maverick618.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E5%AE%9A%E7%90%86%E8%AF%81%E6%98%8E/Coq/%E5%87%BD%E6%95%B0%E4%B8%8E%E8%AF%81%E6%98%8E/</loc>
+         <lastmod>2024-08-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://maverick618.github.io/CS/leetcode_notes/September_2021/</loc>
-         <lastmod>2024-05-16</lastmod>
+         <loc>https://maverick618.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E5%AE%9A%E7%90%86%E8%AF%81%E6%98%8E/Isabelle/%E9%9A%8F%E7%AC%94%E8%AE%B0/</loc>
+         <lastmod>2024-08-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://maverick618.github.io/CS/quantization/VecQ/</loc>
-         <lastmod>2024-05-16</lastmod>
+         <loc>https://maverick618.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E5%AE%9A%E7%90%86%E8%AF%81%E6%98%8E/ucos_correct/init_goodis%E5%88%86%E6%9E%90/</loc>
+         <lastmod>2024-08-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://maverick618.github.io/CS/ucos_correct/init_goodis%E5%88%86%E6%9E%90/</loc>
-         <lastmod>2024-05-16</lastmod>
+         <loc>https://maverick618.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/Linux%E8%BF%9B%E7%A8%8B%E9%80%9A%E4%BF%A1/</loc>
+         <lastmod>2024-08-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://maverick618.github.io/CS/%E6%9D%82%E8%AE%B0/Latex/</loc>
-         <lastmod>2024-05-16</lastmod>
+         <loc>https://maverick618.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/LiteOS/note/</loc>
+         <lastmod>2024-08-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://maverick618.github.io/CS/%E6%9D%82%E8%AE%B0/Markdown/</loc>
-         <lastmod>2024-05-16</lastmod>
+         <loc>https://maverick618.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/LiteOS/%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8%E5%88%86%E6%9E%90/</loc>
+         <lastmod>2024-08-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://maverick618.github.io/CS/%E6%9D%82%E8%AE%B0/mkdocs_pro%26slove/</loc>
-         <lastmod>2024-05-16</lastmod>
+         <loc>https://maverick618.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/</loc>
+         <lastmod>2024-08-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://maverick618.github.io/Mind/</loc>
-         <lastmod>2024-05-16</lastmod>
+         <loc>https://maverick618.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/</loc>
+         <lastmod>2024-08-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://maverick618.github.io/Mind/books_notes/</loc>
-         <lastmod>2024-05-16</lastmod>
+         <loc>https://maverick618.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E6%9D%82%E8%AE%B0/Latex/</loc>
+         <lastmod>2024-08-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://maverick618.github.io/Mind/books_notes/%E7%99%BD%E9%93%B6%E6%97%B6%E4%BB%A3/</loc>
-         <lastmod>2024-05-16</lastmod>
+         <loc>https://maverick618.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E6%9D%82%E8%AE%B0/ML_notes/</loc>
+         <lastmod>2024-08-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://maverick618.github.io/Mind/books_notes/%E9%9D%A9%E5%91%BD%E6%97%B6%E6%9C%9F%E7%9A%84%E7%88%B1%E6%83%85/</loc>
-         <lastmod>2024-05-16</lastmod>
+         <loc>https://maverick618.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E6%9D%82%E8%AE%B0/Markdown/</loc>
+         <lastmod>2024-08-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://maverick618.github.io/Paper_notes/program_logic_and_proof/CaReSL/</loc>
-         <lastmod>2024-05-16</lastmod>
+         <loc>https://maverick618.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E6%9D%82%E8%AE%B0/Vmware/</loc>
+         <lastmod>2024-08-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://maverick618.github.io/Paper_notes/program_logic_and_proof/Spoq/</loc>
-         <lastmod>2024-05-16</lastmod>
+         <loc>https://maverick618.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E6%9D%82%E8%AE%B0/gdb_notes/</loc>
+         <lastmod>2024-08-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://maverick618.github.io/Paper_notes/program_logic_and_proof/hoare_logic/</loc>
-         <lastmod>2024-05-16</lastmod>
+         <loc>https://maverick618.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E6%9D%82%E8%AE%B0/mkdocs_pro%26slove/</loc>
+         <lastmod>2024-08-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://maverick618.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/PyTorch/</loc>
+         <lastmod>2024-08-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://maverick618.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/PyTorch/%E6%95%B0%E6%8D%AE%E9%9B%86%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86/</loc>
+         <lastmod>2024-08-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://maverick618.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/PyTorch/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E6%90%AD%E5%BB%BA/</loc>
+         <lastmod>2024-08-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://maverick618.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/PyTorch/%E7%BD%91%E7%BB%9C%E8%AE%AD%E7%BB%83/</loc>
+         <lastmod>2024-08-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://maverick618.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E5%8F%82%E6%95%B0%E9%87%8F%E5%8C%96/VecQ/</loc>
+         <lastmod>2024-08-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://maverick618.github.io/%E8%AE%BA%E6%96%87/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%AA%8C%E8%AF%81/Verification%20for%20eChronos%20OS/</loc>
+         <lastmod>2024-08-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://maverick618.github.io/%E8%AE%BA%E6%96%87/%E7%A8%8B%E5%BA%8F%E9%80%BB%E8%BE%91%E4%B8%8E%E8%AF%81%E6%98%8E/CaReSL/</loc>
+         <lastmod>2024-08-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://maverick618.github.io/%E8%AE%BA%E6%96%87/%E7%A8%8B%E5%BA%8F%E9%80%BB%E8%BE%91%E4%B8%8E%E8%AF%81%E6%98%8E/Spoq/</loc>
+         <lastmod>2024-08-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://maverick618.github.io/%E8%AE%BA%E6%96%87/%E7%A8%8B%E5%BA%8F%E9%80%BB%E8%BE%91%E4%B8%8E%E8%AF%81%E6%98%8E/hoare_logic/</loc>
+         <lastmod>2024-08-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
