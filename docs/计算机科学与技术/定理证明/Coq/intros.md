@@ -1,0 +1,3 @@
+总体目录结构
+
+暂时按照Software foundations的目录结构来组织，内容上会夹杂Jean-François Monin公开课内容的笔记，后续再根据实际情况进行调整。
