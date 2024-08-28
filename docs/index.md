@@ -7,11 +7,33 @@ statistics: True
 
 
 ## 最新内容
-[Coq](./计算机科学与技术/定理证明/Coq)
-[Isabelle](./计算机科学与技术/定理证明/Isabelle)
-[GDB](./计算机科学与技术/杂记/gdb_notes)
-[LiteOS-系统调用分析](./计算机科学与技术/操作系统/LiteOS/系统调用分析)
 
+1. [Coq](./计算机科学与技术/定理证明/Coq/intros)
+2. [Isabelle](./计算机科学与技术/定理证明/Isabelle/随笔记)
+3. [GDB](./计算机科学与技术/杂记/gdb_notes)
+4. [LiteOS-系统调用分析](./计算机科学与技术/操作系统/LiteOS/系统调用分析)
+
+---
+
+???+ note "目录"
+     | 当前 |level 1 |level 2 |level 3 |
+     |---|---|---|---|
+     |**会议/**|[CC信息安全高等级认证及形式化方法](./会议/CC信息安全高等级认证及形式化方法)|||       
+     |**[心之所向](./心之所向/index)/**|**[读书](./心之所向/读书/index)/**|[白银时代](./心之所向/读书/白银时代)<br><hr>[革命时期的爱情](./心之所向/读书/革命时期的爱情)||
+     |**[计算机科学与技术](./计算机科学与技术/index)/**|**[LeetCode](./计算机科学与技术/LeetCode/index)/**|[April_2021](./计算机科学与技术/LeetCode/April_2021)<br><hr>[March_2021](./计算机科学与技术/LeetCode/March_2021)<br><hr>[September_2021](./计算机科学与技术/LeetCode/September_2021)||
+     ||**定理证明/**|**Coq/**|[environment](./计算机科学与技术/定理证明/Coq/environment)<br><hr>[intros](./计算机科学与技术/定理证明/Coq/intros)<br><hr>[函数与证明](./计算机科学与技术/定理证明/Coq/函数 与证明)|
+     |||**Isabelle/**|[随笔记](./计算机科学与技术/定理证明/Isabelle/随笔记)|
+     |||**ucos_correct/**|[init_goodis分析](./计算机科学与技术/定理证明/ucos_correct/init_goodis分析)|
+     ||**操作系统/**|**LiteOS/**|[note](./计算机科学与技术/操作系统/LiteOS/note)<br><hr>[系统调用分析](./计算机科学与技术/操作系统/LiteOS/系统调用分析)|
+     |||[Linux进程通信](./计算机科学与技术/操作系统/Linux进程通信)||
+     ||**[数据结构与算法](./计算机科学与技术/数据结构与算法/index)/**|[动态规划](./计算机科学与技术/ 数据结构与算法/动态规划)||
+     ||**杂记/**|[gdb_notes](./计算机科学与技术/杂记/gdb_notes)<br><hr>[Latex](./计算机科学与技术/杂 记/Latex)<br><hr>[Markdown](./计算机科学与技术/杂记/Markdown)<br><hr>[mkdocs_pro&slove](./计算机科学 与技术/杂记/mkdocs_pro&slove)<br><hr>[ML_notes](./计算机科学与技术/杂记/ML_notes)<br><hr>[Vmware](./ 计算机科学与技术/杂记/Vmware)||
+     ||**深度学习/**|**[PyTorch](./计算机科学与技术/深度学习/PyTorch/index)/**|[数据集与数据处理](./ 计算机科学与技术/深度学习/PyTorch/数据集与数据处理)<br><hr>[神经网络搭建](./计算机科学与技术/深度学习/PyTorch/神经网络搭建)<br><hr>[网络训练](./计算机科学与技术/深度学习/PyTorch/网络训练)|
+     |||**参数量化/**|[VecQ](./计算机科学与技术/深度学习/参数量化/VecQ)|
+     |**论文/**|**操作系统验证/**|[Verification for eChronos OS](./论文/操作系统验证/Verification for eChronos OS)||
+     ||**程序逻辑与证明/**|[CaReSL](./论文/程序逻辑与证明/CaReSL)<br><hr>[hoare_logic](./论文/程序逻 辑与证明/hoare_logic)<br><hr>[Spoq](./论文/程序逻辑与证明/Spoq)||
+
+---
 
 !!! note "作诗一首"
     临江仙 • 元夜抒怀
@@ -25,6 +47,7 @@ statistics: True
 
 
 ### 更新日志
+- 2024/08/28 新增index的文件导航表；新增生成文件导航表格的脚本。
 - 2024/08/26 修改目录结构，使用中文目录以适应自动化脚本，目录结构更加合理；新增了一些笔记。
 - 2024/05/11 新增“LiteOS-系统调用分析”。
 - 2024/05/05 修改主题和字体；添加搜索功能；添加评论功能；添加统计插件；添加新的读书笔记和论文笔记；修改了一些目录结构。

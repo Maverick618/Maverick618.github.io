@@ -144,6 +144,7 @@ theme:
 
 plugins:
   # - meta # sponsors only
+  # - toc-md
   - rss
   - search
   - statistics
